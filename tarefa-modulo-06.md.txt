@@ -10,4 +10,5 @@ inicio
   7: Vestir roupa;
   8: Tomar café da manhã;
   9: Sair de casa;
+fim
 
