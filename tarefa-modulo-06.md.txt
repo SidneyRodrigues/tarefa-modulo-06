@@ -1,0 +1,13 @@
+#Algoritmo: Acordar de Manhã
+
+inicio
+  1: Despertador toca;
+  2: Abrir os olhos;
+  3: Levantar da cama;
+  4: Ir ao banheiro;
+  5: Escovar os dentes;
+  6: Lavar o rosto;
+  7: Vestir roupa;
+  8: Tomar café da manhã;
+  9: Sair de casa;
+
